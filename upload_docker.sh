@@ -5,12 +5,12 @@
 
 # Step 1:
 # Create dockerpath
-# dockerpath=karimg75/microservices
-export dockerpath="karimg75/microservices"
+# dockerpath=3788/microservices
+export dockerpath="3788/microservices"
 
 # Step 2:  
 # Authenticate & tag
-docker login --username karimg75
+docker login --username 3788
 docker tag microservices $dockerpath
 echo "Docker ID and Image: $dockerpath" 
 

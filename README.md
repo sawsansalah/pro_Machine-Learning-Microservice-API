@@ -1,6 +1,6 @@
 # Udacity - Operationalize a Machine Learning Microservice API
 
-    By Karim Garcia
+    By Sawsan
 
 This repository contains the assignment: Operationalize a Machine Learning Microservice API, which contains several parts:
 

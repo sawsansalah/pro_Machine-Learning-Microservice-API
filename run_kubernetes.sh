@@ -5,8 +5,8 @@
 # Step 1:
 # This is your Docker ID/path
 # dockerpath=<>
-#dockerpath='karimg75/microservices:latest'
-dockerpath='karimg75/microservices:latest'
+#dockerpath='3788/microservices:latest'
+dockerpath='3788/microservices:latest'
 
 
 # Step 2
