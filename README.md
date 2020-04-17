@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Udacity - Operationalize a Machine Learning Microservice API
 
     By Sawsan
@@ -29,3 +30,7 @@ This repository has been verified with CircleCI
 [![CircleCI](https://circleci.com/gh/karimg75/Operationalize-a-Machine-Learning-Microservice-API.svg?style=svg)](https://circleci.com/gh/karimg75/Operationalize-a-Machine-Learning-Microservice-API)
 
 
+=======
+# Operationalize-a-Machine-Learning-Microservice-API
+test
+>>>>>>> d6e02318ec08e50a9f06cd5e6eb1eda2972625b7
